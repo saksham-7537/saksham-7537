@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saksham</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">Web Developer</h3>
 
 - 🔭 I’m currently working on **MERN stack projects**
 
-- 🌱 I’m currently learning **MongoDB, Express, React & NodeJs**
+- 🌱 Currently learning **MongoDB, Express, React & NodeJs**
 
 - 📫 How to reach me **sakshamsethi.cs@gmail.com**
 
